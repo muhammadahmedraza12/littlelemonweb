@@ -1,0 +1,33 @@
+/* src/components/Header.css */
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    height: 80px;
+  }
+  
+  img {
+    max-width: 200px;
+    margin-right: 20px; 
+    width: 150px;
+    height: 200px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px; /* Add spacing between menu items */
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  

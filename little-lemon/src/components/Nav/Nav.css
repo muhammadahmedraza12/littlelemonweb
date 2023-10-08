@@ -1,0 +1,18 @@
+/* Nav.css */
+.navStyle {
+    list-style: none; /* Hide bullets */
+    padding: 0; /* Remove default list padding */
+  }
+  
+  .navStyle li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Add some spacing between items (adjust as needed) */
+  }
+  
+  /* Optionally, you can style the anchor tags (links) */
+  .navStyle li a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #333; /* Change link text color */
+    font-weight: bold; /* Make link text bold (adjust as needed) */
+  }
+  

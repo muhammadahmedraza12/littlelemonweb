@@ -1,0 +1,66 @@
+/* App.css or a separate CSS file */
+footer {
+    background-color: red;
+    color: white;
+    padding: 0px;
+    margin-top: 274px;
+  }
+  
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+  }
+  
+  .footer-logo img {
+    width: 130px; /* Adjust the logo image size as needed */
+    margin-right: 20px;
+   
+    height: 170px; /* Add padding to the right of the logo */
+  }
+  
+  .footer-columns {
+   
+    
+    display: flex;
+    
+    
+  }
+  
+  .footer-column {
+    flex: 1;
+   
+    
+
+    padding: 10px;
+    
+  
+
+  }
+  
+  .footer-column h2 {
+    font-size: 16px;
+    
+
+    
+    
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column li {
+    margin-bottom: 5px;
+    
+  }
+  
+  .footer-column a {
+    color: white;
+    text-decoration: none;
+    
+  }
+  
